@@ -1,0 +1,35 @@
+Game originally developed by Kornel Kisielewicz (C) 2003-2016, released under GPL 2.0 license.
+
+All art is (C) 2003-2016 Derek Yu, redistributed under the CC-BY-SA 4.0 license.
+
+This software uses:
+
+  FMOD Engine
+  by Firelight Technologies Pty Ltd
+  version 3.75
+  EULA
+
+  FPC Valkyrie
+  by ChaosForge.org
+  latest version as of Jan 27, 2018
+  MIT license
+
+  libpng
+  by The PNG Reference Library Authors
+  version 1.2.10
+  PNG Reference Library License version 1
+
+  Lua
+  by Lua.org, PUC-Rio.
+  version 5.1
+  MIT license
+
+  SLD
+  by SDL Community
+  version 1.2.11
+  LGPL 2.1 license
+
+  zlib
+  by Jean-loup Gailly and Mark Adler
+  version 1.2.3
+  zlib license
